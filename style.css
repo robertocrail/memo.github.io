@@ -115,7 +115,7 @@
   background-color: #497D7F;
   padding: 25px;
   margin: 0;
-  width:95%;
+  width:80%;
   height: 95%;
   list-style: none;
   display: -webkit-box;
@@ -130,8 +130,8 @@
 .flex-item {
   background: #B3B3B3;
   padding: 10px;
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   margin-top: 10px;
   line-height: 150px;
   color: white;

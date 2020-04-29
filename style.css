@@ -50,7 +50,7 @@
 .memorama{
   color:orange;
   font-size:5.9vw;
-  font-family: 'Concert One', cursive;
+  font-family: 'neutra_text_tfbold_alt';
   position:center;
 }
 
@@ -220,4 +220,13 @@
   33% { transform: translateY(3px);}  
   70% { transform: translateY(-7px);}
   100%{ transform: translateY(4px);}  
+}
+
+@font-face {
+    font-family: 'neutra_text_tfbold_alt';
+    src: url('neutra_text_tf_alt_bold-webfont.woff2') format('woff2'),
+         url('neutra_text_tf_alt_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
